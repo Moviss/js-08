@@ -1,4 +1,4 @@
-# JS - Zajęcia #
+# JS - Zajęcia 8 - Metody tablic
 
 ### Jak uruchomić?
 
